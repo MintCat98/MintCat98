@@ -46,6 +46,7 @@
 
 <h4 align='center'>🔎 Also can handle</h4>
 <p align='center'>
+<!-- Adobe -->
   <!-- Adobe Ps -->
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white"/></a>&nbsp
   <!-- Adobe Ai -->
@@ -54,9 +55,14 @@
   <img src="https://img.shields.io/badge/PremierePro-9999FF?style=flat-square&logo=AdobePremierePro&logoColor=white"/></a>&nbsp
   <!-- Adobe Ae -->
   <img src="https://img.shields.io/badge/AfterEffects-9999FF?style=flat-square&logo=AdobeAfterEffects&logoColor=white"/></a>&nbsp
-  <br>
   <!-- Figma -->
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>&nbsp
+  <br>
+<!-- Machine Design Tools -->
+  <!-- CAD -->
+  <img src="https://img.shields.io/badge/CAD-000000?style=flat-square&logo=Autodesk&logoColor=white"/></a>&nbsp
+  <!-- SOLIDWORKS -->
+  <img src="https://img.shields.io/badge/SOLIDWORKS-FFFFFF?style=flat-square&logo=dassaultsystemes&logoColor=red"/></a>&nbsp
 </p>
 
 <br>
