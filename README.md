@@ -67,7 +67,13 @@
   <img src="https://img.shields.io/badge/SOLIDWORKS-FFFFFF?style=flat-square&logo=dassaultsystemes&logoColor=red"/></a>&nbsp
 </p>
 
-<br>
+<hr>
+
+<!-- History -->
+<h3 align='center'>🎖️ Stats 🎖️</h3>
+<div align="center" style="text-align:center">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mintcat98"/></a>&nbsp
+</div>
 
 <!-- Personal Pages & Contact -->
 <h3 align='center'>✨ Pages & Contact ✨</h3>
@@ -78,12 +84,4 @@
   <a href="https://dusty-range-725.notion.site/MintCat98-48ba6b85b6a7434599a9ce1da6c8f355"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>&nbsp
   <!-- Contact -->
   <a href="mailto:presidentmc9898@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>&nbsp
-</div>
-
-<be><hr>
-
-<!-- History -->
-<h3 align='center'>🎖️ Stats 🎖️</h3>
-<div align="center" style="text-align:center">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mintcat98"/></a>&nbsp
 </div>
