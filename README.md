@@ -79,3 +79,11 @@
   <!-- Contact -->
   <a href="mailto:presidentmc9898@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>&nbsp
 </div>
+
+<be><hr>
+
+<!-- History -->
+<h3 align='center'>🎖️ Stats 🎖️</h3>
+<div align="center" style="text-align:center">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mintcat98"/></a>&nbsp
+</div>
