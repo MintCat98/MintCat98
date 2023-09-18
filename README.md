@@ -3,16 +3,11 @@
 <h4 align='center'>💡 I've done any projects with</h4>
 <p align='center'>
 <!-- Lang. -->
+  <!-- C++ -->
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>&nbsp
   <!-- Python -->
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-  <!-- HTML -->
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
-  <!-- CSS -->
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp
-  <!-- JavaScript -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp
-  <br>
-<!-- Lib. / Frmaeworks / Tools -->
+<!-- Lib. / Frameworks / Tools -->
   <!-- Git -->
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp
   <!-- GitHub -->
@@ -21,7 +16,7 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>&nbsp
 </p>
 
-<h4 align='center'>🎮 I've used, but not skillful enough with</h4>
+<h4 align='center'>🎮 I've used</h4>
 <p align='center'>
 <!-- Lang. -->
   <!-- Dart -->
@@ -32,6 +27,13 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=JAVA&logoColor=white"/></a>&nbsp
   <!-- Kotlin -->
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp
+  <!-- HTML -->
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
+  <!-- CSS -->
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp
+  <!-- JavaScript -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp
+  <br>
   <br>
 <!-- Lib. / Frmaeworks / Tools -->
   <!-- AWS -->
@@ -46,7 +48,7 @@
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/></a>&nbsp
 </p>
 
-<h4 align='center'>🔎 Also can handle</h4>
+<h4 align='center'>🔎 Also I can handle</h4>
 <p align='center'>
 <!-- Adobe -->
   <!-- Adobe Ps -->
