@@ -1,17 +1,7 @@
 <!-- Tech Stack Section -->
 <h3 align='center'>⚙ Tech-Stacks ⚙</h3>
-<h4 align='center'>💡 Done any projects using</h4>
+<h4 align='center'>💡 Projects using</h4>
 <p align='center'>
-<!-- Tools -->
-  <!-- Git -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp
-  <!-- GitHub -->
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp
-  <!-- Notion -->
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>&nbsp
-  <!-- VSCode -->
-  <img src="https://img.shields.io/badge/VisualStudioCode-0165a9?style=flat-square&logo=VisualStudioCode&logoColor=white"/></a>&nbsp
-  <br>
 <!-- Lang. -->
   <!-- Python -->
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
@@ -31,6 +21,16 @@
   <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>&nbsp
   <!-- aiohttp -->
   <img src="https://img.shields.io/badge/aiohttp-2C5BB4?style=flat-square&logo=aiohttp&logoColor=white"/></a>&nbsp
+  <br>
+  <!-- Tools -->
+  <!-- Git -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp
+  <!-- GitHub -->
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp
+  <!-- Notion -->
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>&nbsp
+  <!-- VSCode -->
+  <img src="https://img.shields.io/badge/VisualStudioCode-0165a9?style=flat-square&logo=VisualStudioCode&logoColor=white"/></a>&nbsp
 </p>
 
 <h4 align='center'>🎮 Experienced</h4>
