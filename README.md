@@ -2,7 +2,7 @@
   <h2>MintCat98 | Mincheol Kang</h2>
 
   <p><b>M.S. Student @ <a href="https://acss.kaist.ac.kr/">ACSS Lab</a>, KAIST EE</b> <i>(Since 2026 Spring)</i></p>
-  <p><b>Research Interests</b>: "Reinforcement Learning-based Safe Control with World Models"</p>
+  <p><b>Research Interests</b>: <ins>RL-based Safe Control with World Models</ins> & <ins>Model Quantization</ins></p>
 </div>
  
 <br>
